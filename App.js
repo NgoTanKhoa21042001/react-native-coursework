@@ -210,22 +210,6 @@ const styles = StyleSheet.create({
     alignItems: "center",
     justifyContent: "center",
   },
-  inner: {
-    width: 15,
-    height: 15,
-    backgroundColor: "gray",
-    borderRadius: 15,
-  },
-  outer: {
-    width: 25,
-    height: 25,
-    borderWidth: 1,
-    borderRadius: 15,
-    justifyContent: "center",
-    alignItems: "center",
-  },
-  topSafeArea: {},
-  headerText: {},
   body: {
     flex: 1,
     justifyContent: "center",
